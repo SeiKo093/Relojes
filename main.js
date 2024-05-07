@@ -1,3 +1,6 @@
+//INTEGRANTES
+//JESUS ENRIQUE CRUZ MORENO, JORGE FRANCISCO ANGULO FLORES
+
 let zonaHoraria = [0, +1, +9];
 let horaDef = 0;
 let minutoDef = 0;
